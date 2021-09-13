@@ -1,0 +1,13 @@
+{
+    "name": "user/learnings",
+    "require-dev": {
+        "guzzlehttp/guzzle": "7.0"
+    },
+    "authors": [
+        {
+            "name": "Sumith Samaraweerahetti",
+            "email": "sumithocs@gmail.com"
+        }
+    ],
+    "require": {}
+}
